@@ -23,3 +23,8 @@ private int getMaxNumber(int number1, int number2) {
 	}
     
 }
+
+
+public void printAnyThing(){
+	System.out.print("xx");
+}
